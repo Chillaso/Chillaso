@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, Chillaso here 👋
 
-<!--
-**Chillaso/Chillaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some cool stats
 
-Here are some ideas to get you started:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chillaso&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chillaso&theme=dracula)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chillaso&theme=dracula) 
+
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chillaso&theme=dracula)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chillaso&theme=dracula) 
+
+## More info
+
+- 🔭 I’m currently working on Scrapping bots deployed in 3 Raspberry pi kubernetes cluster running [K3s](https://k3s.io/)
+
+- 🌱 I’m currently learning 
+
+>![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
